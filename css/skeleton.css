@@ -26,6 +26,8 @@
 */
 
 @import url('https://fonts.googleapis.com/css?family=PT+Sans');
+
+.italics {font-style: italic;}
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .container {
