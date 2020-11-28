@@ -1,9 +1,14 @@
 # academia
 A digitized version of a lot of school notes.
 ## in process of adding
-- U. S. History I
-- Latin I
-- Biology
+- precalculus
+- ap world history
 
 ## would like to add
-- music theory
+- ap calculus ab/bc
+- social psychology
+- physics
+- holocaust
+- ap us gov
+- ap bio
+- ap chem
